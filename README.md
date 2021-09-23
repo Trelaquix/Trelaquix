@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Trelaquix
 - 👀 I’m interested in learning and mastering more programming languages
-- 🌱 I’m currently artificial intelligence learning python for machine learning
+- 🌱 I’m currently learning about artificial intelligence and machine learning using python
 - 📫 You can reach me through email at trelaquix@gmail.com
