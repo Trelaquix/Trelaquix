@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Bryan and I'm a Software Engineer</h2>
+<h2 align="center">Hi 👋! My name is Bryan and I'm a Software Engineer interested in intergrating Artificial Intelligence technologies into software.</h2>
 
 ###
 
